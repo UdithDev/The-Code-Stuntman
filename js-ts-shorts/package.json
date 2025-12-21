@@ -1,0 +1,26 @@
+{
+  "name": "js-ts-shorts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "s01": "tsx src/01-console-table/index.ts",
+    "s02": "tsx src/02-console-time/index.ts",
+    "s03": "tsx src/03-nullish-optional/index.ts",
+    "s04": "tsx src/04-tagged-templates/index.ts",
+    "s05": "tsx src/05-proxy-logger/index.ts",
+    "s06": "tsx src/06-freeze-config/index.ts",
+    "s07": "tsx src/07-promise-all/index.ts",
+    "s08": "tsx src/08-abort-controller/index.ts",
+    "s09": "tsx src/09-ts-satisfies/index.ts",
+    "s10": "tsx src/10-ts-type-extract/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
